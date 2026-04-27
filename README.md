@@ -1,2 +1,2 @@
-# Minecraft_FanSite
-Это фан-сайт по легенадрной песочнице Minecraft.
+# 💛 Minecraft Fan Site
+Это фан-сайт по легендарной песочнице Minecraft.
